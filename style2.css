@@ -1,0 +1,21 @@
+.other:hover{
+    color: rgb(41, 16, 80);
+    background-color: rgb(144, 114, 250);
+}
+table{
+    border:2px solid black;
+}
+tr{
+    border:2px solid black;
+    padding: 0;
+    margin: 5%;
+}
+td{
+    border:2px solid black;
+    padding: 0;
+    margin: 5%;
+}
+p{
+    margin: 5%;
+    padding: 1px;
+}
